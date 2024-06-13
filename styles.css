@@ -22,13 +22,26 @@ span,label{
     font-weight: 600;
     font-size: 20px;
 }
+label{
+    color: #fff;
+}
+
+span{
+    margin-left: 10px;
+}
+
+input[type=radio]{
+            height: 15px;
+            width: 15px;
+           color: #cd6a00;
+        }
 
 
 .card{
     background-color: rgb(243, 243, 243);
     padding: 15px;
     border-radius: 10px;
-    height: 500px;
+    height: 300px;
     width: 450px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     
