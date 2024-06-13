@@ -13,7 +13,7 @@ justify-content: center;
 background-image: linear-gradient(190deg, #ffa200 , #ffd500,#ffa200);
 }
 
-.container{
+.card{
     background-color: rgb(243, 243, 243);
     padding: 15px;
     border-radius: 10px;
